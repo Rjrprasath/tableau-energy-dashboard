@@ -16,7 +16,7 @@ This Tableau project analyses Australia's energy production and renewable energy
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## File
 
