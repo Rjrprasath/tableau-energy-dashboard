@@ -13,7 +13,11 @@ This Tableau project analyses Australia's energy production and renewable energy
 - Tableau Desktop
 - Data Visualisation
 - Time Series Trend Analysis
-- Australian Bureau of Statistics (ABS) Energy Data
+
+## Data Source
+
+Australian Bureau of Statistics – Energy Accounts Data
+
 
 ## Dashboard Preview
 
