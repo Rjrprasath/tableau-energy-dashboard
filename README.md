@@ -8,11 +8,12 @@ This Tableau project analyses Australia's energy production and renewable energy
 • Renewable energy contribution is growing faster than total energy supply  
 • Mining remains the largest energy consuming sector  
 
-## Tools Used
+## Tools & Technologies
 
-- Tableau
+- Tableau Desktop
 - Data Visualisation
-- Energy Data Analysis
+- Time Series Trend Analysis
+- Australian Bureau of Statistics (ABS) Energy Data
 
 ## Dashboard Preview
 
